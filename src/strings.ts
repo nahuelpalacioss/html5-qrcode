@@ -95,11 +95,11 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static scanButtonStopScanningText(): string {
-        return "Stop Scanning";
+        return "Cancelar Escaneo";
     }
 
     public static scanButtonStartScanningText(): string {
-        return "Start Scanning";
+        return "Empezar Escaneao";
     }
 
     public static torchOnButton(): string {
@@ -119,7 +119,7 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static scanButtonScanningStarting(): string {
-        return "Launching Camera...";
+        return "Launching Camerasdalsdaklsmda...";
     }
 
     /**
@@ -141,7 +141,7 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static selectCamera(): string {
-        return "Select Camera";
+        return "Selecciona la cámara";
     }
 
     public static fileSelectionChooseImage(): string {
